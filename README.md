@@ -1,6 +1,6 @@
-# Example Package YOUR USERNAME HERE
+# Example Package myname
 
-`example-package-YOUR-USERNAME` is a simple Python library that contains a single function for rescaling arrays.
+`example-package-myname` is a simple Python library that contains a single function for rescaling arrays.
 
 ## Installation
 
